@@ -1,13 +1,11 @@
 
 .container{
-    background-color: rgba(209, 159, 219, 0.486);
-    height: 738px;  
+    background-color: rgba(209, 159, 219, 0.486); 
     border-radius: 15px;
     background-image: url(./image/back1.jpg);
     background-repeat: repeat-y;
     border: 2px solid rgb(123, 97, 141);
     margin-top: 12px;
-
 
 }
 
@@ -42,6 +40,7 @@
     background-color: rgb(202, 189, 191);
     height: 501x;
     background-image: url(./image/exp.jpg);
+    border-radius: 12px;
     
 }
 #exp{
