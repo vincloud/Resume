@@ -19,12 +19,14 @@
     font-family: 'Times New Roman', Times, serif;
     margin-left: 35px;
     margin-top: 35px;
+    color: rgb(12, 4, 4);
 }
 
 #name{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 22px;
     margin-left: 35px;
+    color: rgb(12, 4, 4);
    
 }
 #imagei{
@@ -37,17 +39,22 @@
 }
 
 #col-1{
-    background-color: rgb(202, 189, 191);
-    height: 501x;
+ 
+    height: 450x;
     background-image: url(./image/exp.jpg);
-    border-radius: 12px;
-    
+    border-radius: 30px;
+    border-bottom-right-radius: 150px;
 }
 #exp{
+    color: rgb(12, 4, 4);
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 80px;
+}  
+#exp1{
     color: white;
     font-family: 'Times New Roman', Times, serif;
-    margin-left: 150px;
-}  
+    margin-left: 80px;
+} 
 
 .proje{
     font-family: 'Times New Roman', Times, serif;
@@ -55,13 +62,19 @@
 }
 
 #txt{
-    color: ivory;
+   
+    margin-left: 77px;
+}
+#txt1{
+    color:white;
+   
 }
 
 #seccol{
     margin-left: 75px;
 }
 #skil{
+    color: rgb(12, 4, 4);
     margin-top:  22px;
     font-family: 'Times New Roman', Times, serif;
     margin-left: 85px;
